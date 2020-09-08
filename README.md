@@ -1,3 +1,3 @@
 # FedSM
 
-Inspired by Ayush's implementations of FedAcg (https://github.com/ayushm-agrawal/Federated-Learning-Implementations)
+Inspired by Ayush's implementations of FedAvg (https://github.com/ayushm-agrawal/Federated-Learning-Implementations)
